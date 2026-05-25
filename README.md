@@ -1,34 +1,172 @@
 # Hi 👋 I'm Somasekhar Bontha
 
-### 🚀 DevOps Engineer | ☁️ Cloud Engineer | 🤖 AI Builder
+### 🚀 DevOps Engineer | ☁️ Cloud Engineer | Platform Engineer | 🤖 AI Builder
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Cloud+%26+AI+Solutions;DevOps+Engineer+with+2%2B+Years+Experience;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;AI+Agents+%7C+RAG+Applications+%7C+MCP+Servers" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+with+2%2B+Years+Experience;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;Building+AI+Agents+%26+RAG+Applications;CI%2FCD+Automation+%7C+Cloud+Infrastructure" />
 </p>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-- 🚀 DevOps Engineer at **TCS**
-- ☁️ Working with **AWS, Azure, Kubernetes & Terraform**
-- 🤖 Building **AI Agents, RAG Applications & MCP Servers**
-- 🐳 Love **Docker, Linux & Automation**
-- 🌱 Learning advanced Cloud & AI Infrastructure
+- 💼 DevOps Engineer at **TCS**
+- ☁️ Working across **AWS & Azure Cloud**
+- 🚀 Building scalable **Cloud Native & AI Infrastructure**
+- 🤖 Developing **CI/CD, AI Agents, MCP Servers & RAG Applications**
+- 🐳 Passionate about **Kubernetes, Automation & Platform Engineering**
+- 🌱 Continuously learning DevOps, AI & Distributed Systems
 
 ---
 
 # 🚀 Tech Stack
 
+## ☁️ Cloud Platforms
+
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,ansible" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,java,nodejs,bash,linux,git,grafana,prometheus,vscode" />
-
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
 </p>
+
+- AWS: EC2, S3, IAM, Lambda, Step Functions, Bedrock, ALB, Auto Scaling
+- Azure: VMs, VMSS, App Services, Container Instances, Entra ID
+
+---
+
+## ⚙️ CI/CD & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,ansible,terraform" />
+</p>
+
+- GitHub Actions
+- Azure DevOps
+- Jenkins
+- AWS CodePipeline
+- AWS CodeBuild
+- AWS CodeDeploy
+- Terraform
+- Bicep
+- CloudFormation
+- Ansible
+
+---
+
+## 🐳 Containers & Orchestration
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
+
+- Docker
+- Podman
+- Kubernetes
+- Amazon EKS
+- Azure AKS
+- Google GKE
+
+---
+
+## 📊 Monitoring & Logging
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</p>
+
+- Prometheus
+- Grafana
+- Azure Monitor
+- Log Analytics
+- AWS CloudWatch
+
+---
+
+## 🔐 Security & Secrets
+
+- SonarQube
+- Trivy
+- RBAC
+- Image Scanning
+- AWS SSM Parameter Store
+- Azure Key Vault
+
+---
+
+## 🌐 Networking
+
+- VPC
+- Subnets
+- Route Tables
+- NAT Gateways
+- Internet Gateways
+- Route53
+- NSGs
+- DNS
+- Load Balancing
+- HTTPS/TLS
+
+---
+
+## 🤖 AI & LLM
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- LangChain
+- CrewAI
+- OpenAI
+- Ollama
+- Amazon Bedrock
+- Gemini
+- Claude
+- MCP
+- RAG Pipelines
+
+---
+
+## 💻 Programming & Scripting
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,nodejs,bash,dotnet,c,cpp,powershell" />
+</p>
+
+- Python
+- Shell Scripting
+- PowerShell
+- Java
+- Node.js
+- C
+- C++
+- .NET
+
+---
+
+## 🛠️ Version Control & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket" />
+</p>
+
+- Git
+- GitHub
+- Bitbucket
+- Jira
+- ServiceNow
+- Azure Boards
+
+---
+
+## 🖥️ Operating Systems
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
+
+- Ubuntu
+- Windows
+- Amazon Linux
+- MacOS
+- RHEL
 
 ---
 
@@ -81,9 +219,5 @@
 ---
 
 <p align="center">
-
-### ⭐ Building Cloud, DevOps & AI Solutions
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer"/>
-
+⭐ Building Cloud, DevOps & AI Solutions
 </p>
