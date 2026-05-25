@@ -1,6 +1,6 @@
 # Hi 👋 I'm Somasekhar Bontha
 
-### DevOps Engineer | Cloud Engineer | AI & Automation Enthusiast
+### DevOps Engineer | Cloud Engineer | Platform Engineer | AI & Automation Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+with+2%2B+Years+Experience;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;Building+AI+Agents+%26+RAG+Applications;CI%2FCD+Automation+%7C+Cloud+Infrastructure" />
