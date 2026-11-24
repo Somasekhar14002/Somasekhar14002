@@ -10,7 +10,7 @@
 
 # 💫 About Me
 
-- 💼 DevOps Engineer at **TCS**
+- 💼 DevOps Engineer at **ICS**
 - ☁️ Working across **AWS & Azure Cloud**
 - 🚀 Building scalable **Cloud Native & AI Infrastructure**
 - 🤖 Developing **CI/CD, AI Agents, MCP Servers & RAG Applications**
